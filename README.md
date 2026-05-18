@@ -85,3 +85,31 @@ Success / Error Message
 
 Username: admin
 Password: 1234
+
+---------------------------------------------------
+
+# Ball Motion Animation using Pygame
+
+A simple interactive ball animation developed using Python and Pygame. The project demonstrates basic animation, event handling, and user-controlled speed adjustments.
+
+## Features
+- Smooth bouncing ball animation
+- Adjustable ball speed
+- Interactive ON/OFF control
+- Beginner-friendly implementation
+
+## Technologies Used
+- Python
+- Pygame
+
+## How to Run
+1. Install pygame:
+   pip install pygame
+
+2. Run the Python file:
+   python filename.py
+
+## Project Purpose
+This project was created to explore animation concepts and event handling using the Pygame library.
+
+-----------------------------------------------------
