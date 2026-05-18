@@ -47,3 +47,41 @@ A simple password generator that creates secure and random passwords using custo
 3. Generate a secure password
 
 ------------------------------------------------------------
+
+# Login System
+
+A simple login system built using Python, Tkinter, and SQLite. The application provides a graphical interface for users to enter login credentials and validates them using a local database.
+
+## Features
+- User-friendly GUI using Tkinter
+- SQLite database integration
+- Username and password authentication
+- Popup messages for login status
+- Beginner-friendly project structure
+
+## Technologies Used
+- Python
+- Tkinter
+- SQLite3
+
+## Program Flow
+
+```text
+Start Program
+      ↓
+Connect to Database
+      ↓
+Create Users Table
+      ↓
+Insert Default User
+      ↓
+Launch GUI Window
+      ↓
+User Enters Credentials
+      ↓
+Validate Login Details
+      ↓
+Success / Error Message
+
+Username: admin
+Password: 1234
